@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+
+}
+
+.container{ 
+    width: 50%;
+    margin: 0 auto;
+}
+
+#texto {
+    border-radius: 5px;
+    font-weight: bolder;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+#respuesta {
+    font-family: cursive;
+}
+
+#firma {
+    font-size: 10px;
+}
